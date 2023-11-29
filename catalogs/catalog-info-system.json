@@ -1,0 +1,12 @@
+apiVersion: backstage.io/v1alpha1
+kind: API
+metadata:
+  name: "hello-home-app"
+  description: "hello-home-app"
+  title: "hello-home-app"
+  annotations:    
+    github.com/project-slug: anand-tyagaraj/score-card-samples        
+    scorecard/jsonDataUrl: './samples/score.json'
+spec:
+  owner: team-b
+  domain: playback
