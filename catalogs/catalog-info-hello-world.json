@@ -1,0 +1,13 @@
+apiVersion: backstage.io/v1alpha1
+kind: System
+metadata:
+  name: "system-home-app"
+  description: "system-home-app"
+  title: "system-home-app"
+  annotations:    
+    github.com/project-slug: anand-tyagaraj/score-card-samples        
+    scorecard/jsonDataUrl: './samples/all.json'
+spec:
+  owner: team-b
+  domain: playback
+  
