@@ -5,5 +5,5 @@ metadata:
   description: A collection of all Backstage example components
 spec:
   targets:
-    - catalog-info-hello.yaml
-    - catalog-info-systems.yaml
+    - ./catalog-info-hello.yaml
+    - ./catalog-info-systems.yaml
