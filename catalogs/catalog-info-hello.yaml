@@ -9,5 +9,7 @@ metadata:
     scorecard/jsonDataUrl: './samples/score.json'
 spec:
   type: service
+  type: grpc
+  lifecycle: deprecated
   owner: team-b
   domain: playback
