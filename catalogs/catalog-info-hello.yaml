@@ -8,5 +8,6 @@ metadata:
     github.com/project-slug: anand-tyagaraj/score-card-samples        
     scorecard/jsonDataUrl: './samples/score.json'
 spec:
+  type: api
   owner: team-b
   domain: playback
