@@ -6,7 +6,7 @@ metadata:
   title: "system-home-app"
   annotations:    
     github.com/project-slug: anand-tyagaraj/score-card-samples        
-    scorecard/jsonDataUrl: './samples/all.json'
+    scorecard/jsonDataUrl: 'https://raw.githubusercontent.com/anand-tyagaraj/score-card-samples/main/samples/all.json'
 spec:
   type: "System"
   owner: team-b
