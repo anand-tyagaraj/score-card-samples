@@ -6,7 +6,7 @@ metadata:
   title: "hello-home-app"
   annotations:    
     github.com/project-slug: anand-tyagaraj/score-card-samples        
-    scorecard/jsonDataUrl: './samples/score.json'
+    scorecard/jsonDataUrl: 'https://raw.githubusercontent.com/anand-tyagaraj/score-card-samples/main/samples/score.json'
 spec:
   type: grpc
   lifecycle: deprecated
